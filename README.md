@@ -2,4 +2,4 @@
 
 ## Languages
 * 
-* [한국어](/Aceasta/topwartips)
+* [한국어](.)
